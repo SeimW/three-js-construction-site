@@ -8,6 +8,8 @@ Generator by KolosStudios [CC-BY] (https://creativecommons.org/licenses/by/3.0/)
 
 Bulldozer by Poly by Google [CC-BY] (https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/eY1N7Rz9Drr)
 
+Sun by Poly by Google [CC-BY] (https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/77wHkzwlpOq)
+
 Animated Robot by Quaternius (https://poly.pizza/m/QCm7qe9uNJ)
 
 Large Building by Kenney (https://poly.pizza/m/3IhrYZp6tP)
