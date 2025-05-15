@@ -27,3 +27,5 @@ Grass texture by Cethiel (https://opengameart.org/content/tileable-grass-texture
 Concete & Concrete 2 texture by arikel (https://opengameart.org/content/seamless-2)
 
 Road texture by bart (https://opengameart.org/content/golgotha-textures-tunnelroadjpg)
+
+Fog texture by LFA (https://opengameart.org/node/8086)
