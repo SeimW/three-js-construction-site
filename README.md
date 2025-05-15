@@ -2,9 +2,9 @@
 
 Structure by Quaternius (https://poly.pizza/m/PB5Cd3dL24)
 
-Factory by Poly by Google [CC-BY] via Poly Pizza
+Factory by Poly by Google [CC-BY] (https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/fCiJW5Qdgbf)
 
-Generator by KolosStudios [CC-BY] via Poly Pizza
+Generator by KolosStudios [CC-BY] (https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/K58RQ63qR5)
 
 Bulldozer by Poly by Google [CC-BY] (https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/eY1N7Rz9Drr)
 
