@@ -24,6 +24,6 @@ Dirt texture by Cethiel (https://opengameart.org/content/tileable-dirt-textures)
 
 Grass texture by Cethiel (https://opengameart.org/content/tileable-grass-textures-set-1)
 
-Concete texture by arikel (https://opengameart.org/content/seamless-2)
+Concete & Concrete 2 texture by arikel (https://opengameart.org/content/seamless-2)
 
 Road texture by bart (https://opengameart.org/content/golgotha-textures-tunnelroadjpg)
