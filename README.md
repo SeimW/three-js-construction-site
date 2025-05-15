@@ -19,3 +19,11 @@ Wooden Wall by Quaternius (https://poly.pizza/m/8C9NBoi9cA)
 Worker by Quaternius (https://poly.pizza/m/Yg2bQZO6Hj)
 
 Business Man by Quaternius (https://poly.pizza/m/JFrLIKqvCH)
+
+Dirt texture by Cethiel (https://opengameart.org/content/tileable-dirt-textures)
+
+Grass texture by Cethiel (https://opengameart.org/content/tileable-grass-textures-set-1)
+
+Concete texture by arikel (https://opengameart.org/content/seamless-2)
+
+Road texture by bart (https://opengameart.org/content/golgotha-textures-tunnelroadjpg)
